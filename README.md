@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @chemicalphysicslife
-- 👀 I’m interested inleaning interediciplanary areas especially in Chemistry and Physics.
-- 🌱 I’m currently carring out a research on how speed of sound wave can travel through thin film with birefringence property. ...
-- 📫 Contact me through: chemicalphysicslife.wordpress.com
+- 👀 I’m interested in learning interdisciplinary areas, especially in Chemistry and Physics.
+🌱 I’m currently conducting research on how the speed of sound waves can travel through thin films with birefringence properties.
+- 📫 Contact me through chemicalphysicslife.wordpress.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact:Blob is a regitmate scientific term in study of soft matter
+- ⚡ Fun fact: Blob is a legitimate scientific term in the study of soft matter
 
 <!---
 chemicalphysicslife/chemicalphysicslife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
